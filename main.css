@@ -17,7 +17,7 @@ h1 {
     color: rgb(70, 39, 39);  
 }
 .text1 {
-    text-align: center;
+    text-align: justify;
     font-size: 21px; 
     line-height: 1.7;  
     font-family: 'Roboto Condensed', sans-serif;
@@ -31,7 +31,7 @@ h1 {
     font-family: 'Roboto Condensed', sans-serif;
 }
 .text2 {
-    text-align: center;
+    text-align: justify;
     font-size: 21px; 
     line-height: 1.7;  
     font-family: 'Roboto Condensed', sans-serif;
