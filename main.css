@@ -53,3 +53,13 @@ h1 {
     font-size: 21px;
     font-family: 'Roboto Condensed', sans-serif;
 }
+.text-4 {
+    text-align: justify;
+    font-size: 21px; 
+    line-height: 1.7;  
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.words-4 {
+    font-size: 21px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
